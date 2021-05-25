@@ -20,10 +20,10 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/dmontee/cra-template-dmontee"
+      "url": "https://github.com/teaganryley/cra-template-tea"
     },
     "bugs": {
-      "url": "https://github.com/dmontee/cra-template-dmontee/issues"
+      "url": "https://github.com/teaganryley/cra-template-tea/issues"
     },
     "files": [
       "template",
