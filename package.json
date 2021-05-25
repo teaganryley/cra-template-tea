@@ -1,0 +1,35 @@
+{
+    "name": "cra-template-tea",
+    "version": "1.0.0",
+    "description": "Simple cra template with eslint, axios, flexboxgrid, and styled-components.",
+    "keywords": [
+      "create-react-app",
+      "react",
+      "template",
+      "axios",
+      "flexbox",
+      "grid",
+      "eslint",
+      "styled-components"
+    ],
+    "main": "template.json",
+    "scripts": {
+      "test": "echo \"no tests\""
+    },
+    "author": "tea",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dmontee/cra-template-dmontee"
+    },
+    "bugs": {
+      "url": "https://github.com/dmontee/cra-template-dmontee/issues"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ],
+    "engines": {
+      "node": ">=10"
+    }
+  }
