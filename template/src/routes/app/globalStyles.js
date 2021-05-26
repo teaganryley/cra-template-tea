@@ -15,15 +15,13 @@ const GlobalStyles = createGlobalStyle`
   }
 
   html {
-    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
     background: ${props => props.theme.primary};
-    // padding: 1em;
   }
 
   body {
     background: ${props => props.theme.primary};
     margin: 0;
-    // padding: 1em;
   }
 
   /* Remove default margin */
@@ -61,7 +59,7 @@ const GlobalStyles = createGlobalStyle`
   h4,
   h5,
   h6 {
-    font-family: 'Space Mono', monospace;
+    font-family: monospace;
   }
 `;
 
