@@ -1,2 +1,7 @@
 # cra-template-tea
- minimalist cra template for tea. 
+tea's cra template. 
+
+## Usage
+```sh
+npx create-react-app my-app --template tea
+```
